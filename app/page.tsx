@@ -111,7 +111,7 @@ export default function Page() {
               </h1>
               <p className="text-xl text-gray-300 mb-8">Join thousands of professionals transforming their careers with expert mentorship and proven strategies.</p>
               <div className="flex gap-4">
-                <a href="https://wa.me/234" className="bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white font-bold py-3 px-8 rounded-lg transition-all duration-300 hover:shadow-lg">
+                <a href="https://wa.me/2348023183884" className="bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white font-bold py-3 px-8 rounded-lg transition-all duration-300 hover:shadow-lg">
                   Start Your Journey
                 </a>
                 <a href="#hangouts" className="border-2 border-cyan-400 text-cyan-400 hover:bg-cyan-400/10 font-bold py-3 px-8 rounded-lg transition-all duration-300">
@@ -214,7 +214,7 @@ export default function Page() {
                   <p className="text-cyan-400 text-lg mb-4">Career Development Expert & Mentor</p>
                   <p className="text-gray-300 mb-6">With 10+ years of experience in career coaching, Gbenga has helped 500+ professionals transition into fulfilling careers. Specializing in skill architecture and career strategy.</p>
                   <div className="flex gap-4">
-                    <a href="https://wa.me/234" className="bg-green-600 hover:bg-green-700 p-3 rounded-lg transition-colors">
+                    <a href="https://wa.me/2348023183884" className="bg-green-600 hover:bg-green-700 p-3 rounded-lg transition-colors">
                       <MessageCircle className="w-6 h-6 text-white" />
                     </a>
                     <a href="https://linkedin.com" className="bg-blue-600 hover:bg-blue-700 p-3 rounded-lg transition-colors">
