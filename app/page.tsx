@@ -123,7 +123,7 @@ export default function Page() {
               <iframe
                 width="100%"
                 height="400"
-                src="https://www.youtube.com/embed/c7lebXXCyRg?autoplay=1&mute=1&modestbranding=1"
+                src="https://www.youtube.com/embed/bRlRovolVgs?autoplay=1&mute=1&modestbranding=1"
                 title="Career Development"
                 className="rounded-xl shadow-2xl"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
