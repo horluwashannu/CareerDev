@@ -264,7 +264,7 @@ export default function Page() {
               <div>
                 <h4 className="font-bold text-white mb-4">Connect</h4>
                 <ul className="space-y-2 text-gray-400">
-                  <li><a href="https://wa.me/234" className="hover:text-cyan-400 transition-colors">WhatsApp</a></li>
+                  <li><a href="https://wa.me/2348023183884" className="hover:text-cyan-400 transition-colors">WhatsApp</a></li>
                   <li><a href="https://linkedin.com" className="hover:text-cyan-400 transition-colors">LinkedIn</a></li>
                   <li><a href="https://instagram.com" className="hover:text-cyan-400 transition-colors">Instagram</a></li>
                   <li><a href="https://youtube.com" className="hover:text-cyan-400 transition-colors">YouTube</a></li>
@@ -286,7 +286,7 @@ export default function Page() {
 
         {/* Fixed WhatsApp Button */}
         <a
-          href="https://wa.me/234"
+          href="https://wa.me/2348023183884"
           className="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 z-40"
         >
           <MessageCircle className="w-6 h-6" />
